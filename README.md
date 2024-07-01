@@ -27,6 +27,12 @@ this code to reproduce the results presented in the paper, or to perform
 your own studies on functional networks! 
 All computation is performed in pure Python.
 
+
+**Reference**
+
+Please acknowledge and cite the use of this software and its authors when results are used in publications or published elsewhere. You can use the following reference: 
+> C. Geier: **Code for paper Exploring localization in nonlinear oscillator systems through network-based predictions**. [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.12611988.svg)](https://doi.org/10.5281/zenodo.12611988)
+
 ---
 # Prerequisites
 
