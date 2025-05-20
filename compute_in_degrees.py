@@ -1,9 +1,9 @@
 # -*- coding: utf-8 -*-
 """ main file analysis of node in-degrees within functional network
 
-Part of the accompanying code for the paper "Exploring localization in
-nonlinear oscillator systems through network-based predictions" by Charlotte
-Geier and Norbert Hoffmann submitted to the Journal of Sound and Vibration in July 2024.
+Part of the accompanying code for the paper "Exploring localization in nonlinear oscillator systems through 
+network-based predictions" by C. Geier and N. Hoffmann published in Chaos 35 
+(5) 2025 doi: 10.1063/5.0265366 . Available at https://arxiv.org/abs/2407.05497
 
 Analysis of functional networks:
 - Compute node in- and out-degree for each node.

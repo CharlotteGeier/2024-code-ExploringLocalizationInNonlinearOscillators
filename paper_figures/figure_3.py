@@ -1,9 +1,9 @@
 # -*- coding: utf-8 -*-
 """ Create figure 3 from the paper.
 
-Part of the accompanying code for the paper "Exploring localization in
-nonlinear oscillator systems through network-based predictions" by Charlotte
-Geier and Norbert Hoffmann submitted to the Journal of Sound and Vibration in July 2024.
+Part of the accompanying code for the paper "Exploring localization in nonlinear oscillator systems through 
+network-based predictions" by C. Geier and N. Hoffmann published in Chaos 35 
+(5) 2025 doi: 10.1063/5.0265366 . Available at https://arxiv.org/abs/2407.05497
 
 To reproduce the figure, run the code without changing it.
 
